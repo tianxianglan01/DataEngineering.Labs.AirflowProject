@@ -13,8 +13,6 @@ Visit
 - 0.0.0.0:8080
 
 # Airflow Project Overview
--------------------------------------------------------------------------------------
-
 - Data was taken from https://www.kaggle.com/siropo/spotify-multigenre-playlists-data
 - The data is separated into 7 tables delineated by their overall genre from Spotify.
 
@@ -26,4 +24,3 @@ pop_music_data
 rock_music_data
 
 # Airflow Goals
--------------------------------------------------------------------------------------
